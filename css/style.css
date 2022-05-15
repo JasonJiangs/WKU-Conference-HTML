@@ -813,7 +813,7 @@ Keynote Speakers
 /* Contact Card */
 
 .contact-card-container {
-  margin-top: 100px;
+  margin-top: 38px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -848,7 +848,7 @@ Keynote Speakers
 .contact-card-content {
   /*position: relative;*/
   /*bottom: 50px;*/
-  margin-bottom: 30px;
+  margin-bottom: -5px;
 }
 
 .contact-card-name {
