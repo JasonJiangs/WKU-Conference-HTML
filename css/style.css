@@ -437,12 +437,12 @@ button:focus,
 
 .jumbotron .content .event-date {
   margin-bottom: 10px;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .jumbotron .content .college {
   font-size: 0.9em;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .jumbotron .btn {
