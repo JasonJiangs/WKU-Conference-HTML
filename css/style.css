@@ -410,9 +410,9 @@ button:focus,
 }
 
 .jumbotron .content h1 {
-  color: lightblue;
+  color: #33666F;
   font-family: 'Roboto', SansSerif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .jumbotron .content h3 {
